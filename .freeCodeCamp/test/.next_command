@@ -182,3 +182,5 @@ declate -p IFS
 declare -p IFS
 clear
 ./insert_data.sh
+clear
+./insert_data.sh
