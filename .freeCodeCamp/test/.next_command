@@ -294,3 +294,4 @@ __vsc_prompt_cmd_original
 clear
 ls --color=auto
 ls --color=auto
+pg_dump --help
