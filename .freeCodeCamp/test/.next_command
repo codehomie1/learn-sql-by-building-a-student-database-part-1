@@ -187,3 +187,5 @@ clear
 clear
 ./insert_data.sh
 help if
+clear
+cp courses.csv courses_test.csv
