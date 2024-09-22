@@ -192,3 +192,4 @@ cp courses.csv courses_test.csv
 clear
 ./insert_data.sh
 ./insert_data.sh
+./insert_data.sh
